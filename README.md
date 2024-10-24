@@ -8,8 +8,7 @@ The specific goals include:
 2. Data preprocessing that include data manipulation, filtering and normalization
 3. Exploratory Data Analysis (EDA) to visualize and summarize the data
 4. Build classification model
-
-    a. Compare model performance using logistic regression and random forest
+    - Compare model performance using logistic regression and random forest
 6. Perform prediction
 7. Model evaluation using cross-fold validation and permiutations; and visualize resulting ROC curves
 8. Perform statistical test to analyse difference between BRCA and normal samples
