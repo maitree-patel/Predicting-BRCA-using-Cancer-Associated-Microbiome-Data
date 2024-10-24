@@ -13,3 +13,10 @@ The specific goals include:
 7. Model evaluation using cross-fold validation and permiutations; and visualize resulting ROC curves
 8. Perform statistical test to analyse difference between BRCA and normal samples
 
+## Data
+The microbial raw reads and metadata from the supplemental tables from the paper titled "Robustness of cancer microbiome signals over a broad range of methodological variation" by Sepich-Poore et al., 2024.
+
+## References 
+1. Sepich-Poore, G.D. et al. (2024) ‘Robustness of cancer microbiome signals over a broad range of methodological variation’, Oncogene, 43(15), pp. 1127–1148. doi:10.1038/s41388-024-02974-w.
+2. Poore, G.D. et al. (2020) ‘Retracted article: Microbiome analyses of blood and tissues suggest cancer diagnostic approach’, Nature, 579(7800), pp. 567–574. doi:10.1038/s41586-020-2095-1. 
+
