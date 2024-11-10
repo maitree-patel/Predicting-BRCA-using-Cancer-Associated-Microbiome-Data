@@ -14,7 +14,7 @@ public class BrcaPCA
 	public static void main(String[] args) throws Exception 
 	{
 		try {
-            // Load the data
+            // Load the dataset
             DataSource source = new DataSource("path/to/your/data.csv");
             Instances data = source.getDataSet();
 
