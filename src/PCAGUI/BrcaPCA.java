@@ -15,7 +15,7 @@ public class BrcaPCA
 	{
 		try {
             // Load the dataset
-            DataSource source = new DataSource("path/to/your/data.csv");
+            DataSource source = new DataSource("/Users/maitreepatel/Desktop/AdvProgramming/Project/logNormalisedFullData.csv");
             Instances data = source.getDataSet();
 
             // Set the class index to the last attribute (used for color coding)
