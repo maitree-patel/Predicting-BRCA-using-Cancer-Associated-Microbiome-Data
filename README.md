@@ -4,7 +4,7 @@
 The main aim of this project is to investigate whether microbiome data can discriminate between breast cancer (BRCA) versus normal samples, and whether breast cancer has a signature microbiome (BRCA versus other cancers) using random forest based machine learning model. Additionally, using the One Rule (OneR) classification model, the analysis seeks to answer whether a particular microbial taxa is significantly associated with BRCA. And therefore is it overrepresented in a population making it more susceptible to BRCA.
 
 The specific goals include:
-1. **Merging** the the full raw counts data matrix (TableS8 in supplemental tables) with the metadata (Table S9 in supplemental tables) using HashMaps in Java from Poore *et al*
+1. **Merging** the the full raw counts data matrix (TableS8 in supplemental tables) with the metadata (Table S9 in supplemental tables) from Poore *et al* using HashMaps in Java
 2. **Data preprocessing** that include data manipulation, filtering and normalization
 3. **Exploratory Data Analysis** (EDA), including Principal Component Analysis (PCA) to visualize and summarize the data
 4. **Build classification model**: first, to compare model performance of logistic regression and random forest using Leave-One-Out  Cross-Validation; and visualize resulting ROC curves
